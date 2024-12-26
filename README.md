@@ -1,1 +1,3 @@
 # NewHacks2024
+
+UnityTHunder Simplifier is a tool designed to enhance the debugging process in Unity. It captures detailed debugging information from the Unity console, simplifies it into high-level, user-friendly messages, and displays them in real time. Using a REST API, the debugging data is sent to a frontend website, where each action triggers a relevant debugging message to appear on the screen, akin to the debugging experience in IDEs like VS Code. This project bridges the gap between Unity's console output and intuitive, developer-friendly debugging feedback, improving workflow efficiency and clarity.
